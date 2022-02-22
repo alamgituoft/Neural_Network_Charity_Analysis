@@ -3,8 +3,9 @@
 ## Overview of the analysis
 An analysis project that used neural network modelling to predict whether applicants would be successful if funded by the organization, Alphabet Soup Co.
 
-## Resources
-Software: Python 3.8.5 (mlenv environment), Jupyter Notebook 6.1.4
+![image](https://user-images.githubusercontent.com/81877387/155226010-90c92216-e76b-4c35-80de-75af109eea23.png)## Resources
+
+Software: Python 3.8.5 (mlenv environment), Jupyter Notebook 6.1.4, TensorFlow 2.0
 
 ## Results 
 ## Data Preprocessing:
